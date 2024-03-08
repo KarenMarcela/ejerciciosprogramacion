@@ -28,6 +28,11 @@ public class Book {
     public boolean isAvailable() {
         return available;
     }
+
+    public String getTitle() {
+        return title;
+    }
+    
     
     
     
